@@ -10,8 +10,10 @@ public class IliskiselOperatorl {
 		boolean sonuc;
 		
 		
-		sonuc=sayi<sayi2;
-		System.out.println(sonuc);
+		sonuc=sayi<sayi2; /* Booleanla sorguyu (true/false) diye  sorgulattım*/
+		
+		
+		System.out.println(sonuc); 
 		
 		sonuc=sayi+sayi2>=sayi3;
 		System.out.println(sonuc);
